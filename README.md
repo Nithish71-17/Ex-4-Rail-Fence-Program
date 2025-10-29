@@ -1,8 +1,8 @@
 # Ex-4 Rail-Fence-Program
 
 # IMPLEMENTATION OF RAIL FENCE – ROW & COLUMN TRANSFORMATION TECHNIQUE
-## Name: SANTHOSH V
-## Register No : 212224230252
+## Name: NITHISH GS
+## Register No : 212223043004
 # AIM:
 To write a C program to implement the rail fence transposition technique.
 
